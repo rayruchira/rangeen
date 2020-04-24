@@ -6,6 +6,6 @@ In this project, the input image is enhanced in such a way that it helps people 
 - Changes in spots
 - real time for only yellow
 
-'''diff 
+```diff
 + REPO UNDER WORK
-'''
+```
